@@ -12,7 +12,7 @@ class TVShowDetailsState extends Equatable {
 
   final MediaDetails? tvShowDetails;
   final RequestStatus tvShowDetailsStatus;
-  final String tvShowDetailsMessage;
+  final String? tvShowDetailsMessage;
   final SeasonDetails? seasonDetails;
   final RequestStatus seasonDetailsStatus;
   final String seasonDetailsMessage;

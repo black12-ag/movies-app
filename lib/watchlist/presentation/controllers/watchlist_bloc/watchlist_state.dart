@@ -21,7 +21,7 @@ class WatchlistState extends Equatable {
   final int? id;
   final List<Media> items;
   final WatchlistRequestStatus status;
-  final String message;
+  final String? message;
 
   WatchlistState copyWith({
     int? id,
