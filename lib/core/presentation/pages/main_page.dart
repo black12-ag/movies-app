@@ -8,9 +8,9 @@ import 'package:movies_app/core/resources/app_values.dart';
 
 class MainPage extends StatefulWidget {
   const MainPage({
-    Key? key,
+    super.key,
     required this.child,
-  }) : super(key: key);
+  });
 
   final Widget child;
 
