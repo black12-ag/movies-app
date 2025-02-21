@@ -24,8 +24,8 @@ An awesome Flutter Movie App built with Clean Architecture, powered by BLoC, Hiv
 
 1️⃣ Clone the Repository
 
-git clone https://github.com/hammadx02/movie-app.git
-cd movie-app
+git clone https://github.com/hammadx02/movie_app.git
+cd movie_app
 
 2️⃣ Install Dependencies
 
