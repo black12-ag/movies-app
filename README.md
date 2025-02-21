@@ -16,7 +16,7 @@ An awesome Flutter Movie App built with Clean Architecture, powered by BLoC, Hiv
 
 ## 📽️ Demo Video
 
-https://github.com/hammadx02/movie_app/assets/demo.mp4
+https://www.linkedin.com/posts/hammadx02_flutter-appdevelopment-activity-7298355749666086913-8kNK?utm_source=share&utm_medium=member_desktop&rcm=ACoAADbIvY8BSXlJJSgrMDl2efNp7j4fAKROVdg
 
 > 🎥 Check out the app in action in the video above!
 
