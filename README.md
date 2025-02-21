@@ -1,3 +1,4 @@
+
 🎬 Movie App
 
 An awesome Flutter Movie App built with Clean Architecture, powered by BLoC, Hive, and The Movie DB API. 🍿🎥
@@ -32,6 +33,8 @@ flutter pub get
 
 3️⃣ Add API Key (Replace YOUR_API_KEY)
 
+Edit the api_constants.dart file:
+
 apiKey = 'YOUR_API_KEY';
 
 4️⃣ Run the App
@@ -40,14 +43,19 @@ flutter run
 
 📦 Dependencies
 
-This app is powered by the following amazing packages:
+This app is powered by:
 
-🔹 cached_network_image – Smooth image loading 🚀
-🔹 carousel_slider – Stunning carousels 🎠
-🔹 flutter_bloc – State management 🧩
-🔹 hive – Local storage 📂
-🔹 google_fonts – Beautiful typography ✨
-🔹 shimmer – Eye-catching loading animations 🔆
-🔹 url_launcher – Open links easily 🌍
+📸 cached_network_image – Smooth image loading
+
+🎠 carousel_slider – Stunning carousels
+
+🧩 flutter_bloc – State management
+
+📂 hive – Local storage
+
+✨ google_fonts – Beautiful typography
+
+🔆 shimmer – Eye-catching loading animations
+
+🌍 url_launcher – Open links easily
 ...and many more! 🚀
-
