@@ -1,5 +1,7 @@
 name: movies_app
-description: A new Flutter project.
+description: A modern Flutter app for discovering movies and TV shows with clean architecture.
+author: Munir <your.email@example.com>
+homepage: https://github.com/black12-ag/movies-app
 
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.

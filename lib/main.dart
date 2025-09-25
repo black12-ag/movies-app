@@ -1,3 +1,10 @@
+/*
+ * Copyright (c) 2025 Munir. All rights reserved.
+ * 
+ * This file is part of Munir Movies.
+ * Licensed under the MIT License. See LICENSE file for details.
+ */
+
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:hive_flutter/hive_flutter.dart';

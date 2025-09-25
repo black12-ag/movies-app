@@ -95,6 +95,14 @@ flutter build ios --release        # iOS
 
 ---
 
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+**Copyright © 2025 Munir. All rights reserved.**
+
+---
+
 <div align="center">
   <sub>Data provided by <a href="https://www.themoviedb.org/">The Movie Database (TMDB)</a></sub>
 </div>
