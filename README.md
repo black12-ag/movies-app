@@ -10,13 +10,6 @@
 
   <p>A modern Flutter app for discovering movies and TV shows with clean architecture and beautiful UI.</p>
 </div>
-
-## ✨ Features
-
-- **🔍 Global Search** - Find movies, TV shows, and people instantly
-- **🎭 Rich Content** - Detailed pages with trailers, cast, and reviews
-- **📱 Responsive Design** - Works perfectly on mobile, tablet, and web
-- **💾 Personal Watchlist** - Save favorites with offline storage
 - **🎨 Modern UI** - Clean Material Design with smooth animations
 
 ## 📱 Screenshots
