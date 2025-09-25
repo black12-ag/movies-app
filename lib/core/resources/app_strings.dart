@@ -1,5 +1,5 @@
 class AppStrings {
-  static const String appTitle = 'Movies App';
+  static const String appTitle = 'Munir Movies';
   static const String seeAll = 'see all';
   static const String popularMovies = 'Popular movies';
   static const String topRatedMovies = 'Top rated movies';

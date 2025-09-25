@@ -1,8 +1,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.movies_app">
+    package="com.munir.munirmovies">
     <uses-permission android:name="android.permission.INTERNET"/>
    <application
-        android:label="movies_app"
+        android:label="Munir Movies"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
