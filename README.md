@@ -9,7 +9,23 @@
   </p>
 
   <p>A modern Flutter app for discovering movies and TV shows with clean architecture and beautiful UI.</p>
+
+  <p>
+    <a href="https://youtu.be/JlsN8xb195A" target="_blank">
+      <img src="https://img.shields.io/badge/📺_Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Demo">
+    </a>
+  </p>
 </div>
+
+## 📺 Demo Video
+
+<div align="center">
+  <a href="https://youtu.be/JlsN8xb195A" target="_blank">
+    <img src="https://img.youtube.com/vi/JlsN8xb195A/maxresdefault.jpg" alt="Movies App Demo" width="600">
+  </a>
+  <p><em>Click the image above to watch the full demo on YouTube</em></p>
+</div>
+
 - **🎨 Modern UI** - Clean Material Design with smooth animations
 
 ## 📱 Screenshots
